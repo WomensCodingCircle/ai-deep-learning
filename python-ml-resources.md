@@ -67,3 +67,13 @@
 
 #### VI. Miscellaneous
 
+ * xkcd comics on programming  
+ * reddit - programming thread  
+ * HackerRank - simple coding practice, many languages
+ * CodeWars - simple coding practice, many languages  
+ * StackOverflow  
+ * Cracking the Coding Interview book - uses Java.  
+   Worked Puthin solutions available from others. 
+ * Algoexpert.com - about $80-100 for 1 year, look for sales.  
+
+
