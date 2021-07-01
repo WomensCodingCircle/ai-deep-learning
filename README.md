@@ -1,4 +1,6 @@
-# AI, Machine Learning, and Deep Learning Shared Resource  
+# AI, Deep Learning, and Machine Learning  
+
+The purpose of this repository is to help each other learn by posting resources we have found useful in our studies.  
 
 ### A Letter to Women's Coding Circle
 at https://www.janelia.org/, Janelia Research Campus  
