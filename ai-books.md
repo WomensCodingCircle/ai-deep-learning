@@ -28,7 +28,7 @@
    Has more math and theory. Is a definitive reference.     
      - Link: http://www.deeplearningbook.org/  
  
- * James, Witten, Hastie, Tibshirani, ***An Introduction to Statistical Learning with Applications in R***, c 2013.
+ * James, Witten, Hastie, Tibshirani, ***An Introduction to Statistical Learning with Applications in R***, c 2013.   
    8th printing with corrections, c 2017.  
    Very good place to start for a beginner to machine learning. Python codes available by others on Github.   
      - main website:  http://faculty.marshall.usc.edu/gareth-james/ISL/  
