@@ -71,4 +71,7 @@
    I like this book for intermediate level Python. 1st edition was good enough for upgrading my skills.    
      - Link: https://github.com/fluentpython  
      
+**List by Jennifer E. Yoon**   
+
+### Please feel free to add your top picks!  
 
