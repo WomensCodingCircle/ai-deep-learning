@@ -1,4 +1,4 @@
-# AI, Deep Learning, and Machine Learning  
+# AI, Deep Learning and Machine Learning with Python  
 
 The purpose of this repository is to help each other learn by posting resources we have found useful in our studies.  
 
