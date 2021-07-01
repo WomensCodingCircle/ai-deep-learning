@@ -10,7 +10,7 @@
 
 #### III-a. Books for Beginners 
 
- * Elements of Statistical Learninf with R, James et al.  
+ * Introduction to Statistical Learninf with Applications in R, James et al.  
    Stanford professors, MOOC and video available from Lagunitas.  
    Good beginner book on machine learning concepts. Has easy practice questions.  
    Don't need to know R.  Many Python versions of code is available from others.  
@@ -34,7 +34,9 @@
  * SciPy Conferenc, annual in July  
  * PyData Conference, several times a year in different locations. 
  * PyCon Conference, annual in June  
- * Meetups
+ * Meetups - get moral support from other learners and build your network.  
+ * Kaggle Competitions: https://www.kaggle.com/competitions   
+     - Best for building experience with professional-level deep learning projects.  
 
 ### V. Tools, Environments 
 
@@ -71,9 +73,9 @@
  * reddit - programming thread  
  * HackerRank - simple coding practice, many languages
  * CodeWars - simple coding practice, many languages  
- * StackOverflow  
+ * StackOverflow - answering newbie questions is very good for firming up one's own learning.  It's also a good practice for debugging and reading other people's code.   
  * Cracking the Coding Interview book - uses Java.  
-   Worked Puthin solutions available from others. 
+   Worked Python solutions available from others. 
  * Algoexpert.com - about $80-100 for 1 year, look for sales.  
 
 
