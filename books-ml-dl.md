@@ -1,4 +1,4 @@
-#  Books & External Resources for Machine Learning and Deep Learning     
+#  Books & Resources for Machine Learning and Deep Learning     
 
 ## Top-6 books:  
 
