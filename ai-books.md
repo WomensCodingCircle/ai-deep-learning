@@ -7,7 +7,7 @@
     - Link: https://jakevdp.github.io/PythonDataScienceHandbook/  
   
  * Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
-   After working through the VanderPlas book, fastai book is the best beginner book for deep learning.
+   After working through VanderPlas, fastai has the best beginner book for deep learning.
      - Amazon book:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1   
      - fastbook github: https://github.com/fastai/fastbook  
      - fastai v2 library github: https://github.com/fastai/fastai 
