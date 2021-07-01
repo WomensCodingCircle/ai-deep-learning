@@ -1,4 +1,4 @@
-# ai-deep-learning (and machine learning)
+# AI, Machine Learning, and Deep Learning Shared Resource  
 
 ### A Letter to Women's Coding Circle
 at https://www.janelia.org/, Janelia Research Campus  
