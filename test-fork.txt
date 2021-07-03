@@ -1,6 +1,0 @@
-testing edit after fork. 
-cloned fork to my local computer.  
-
-local repo: c drive repos folder, "ai-deep-learning-python"
-origin -> my fork repo on github
-upstream -> WCC repo on github
