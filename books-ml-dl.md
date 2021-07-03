@@ -1,10 +1,6 @@
 #  Books & Resources for Machine Learning and Deep Learning     
 
-## Top-6 books:  
-
- * VanderPlas, ***Python Data Science Handbook***, c 2017     
-   Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Pandas, Scikit-learn, and Jupyter/iPython.  
-    - Link: https://jakevdp.github.io/PythonDataScienceHandbook/  
+## Top-5 books:  
   
  * Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
    After working through VanderPlas, fastai has the best beginner book for deep learning.
@@ -19,25 +15,25 @@
        https://m.youtube.com/playlist?list=PLfYUBJiXbdtTIdtE1U8qgyxo4Jy2Y91uj   
      - Youtube playlist for fastai v2 library, 2020 release:  
        https://m.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq  
-
- * Chollet, ***Deep Learning with Python***  
-   Learning Keras/TensorFlow and basic deep learning concepts from the developer of Keras.  
-     - https://www.manning.com/books/deep-learning-with-python  
- 
+       
+ * VanderPlas, ***Python Data Science Handbook***, c 2017     
+   Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Pandas, Scikit-learn, and Jupyter/iPython.  
+    - Link: https://jakevdp.github.io/PythonDataScienceHandbook/        
+    
+ * Aurelien Geron, ***Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow***, 2nd ed. c 2019.  
+   The 2nd edition has new part 2 on deep learning. Part a has basic machine learning.      
+     - Link: https://github.com/ageron/handson-ml2  
+       
  * Goodfellow et al., ***Deep Learning Book***   
    Has more math and theory. Is a definitive reference.     
      - Link: http://www.deeplearningbook.org/  
- 
+
  * James, Witten, Hastie, Tibshirani, ***An Introduction to Statistical Learning with Applications in R***, c 2013.   
    8th printing with corrections, c 2017.  
    Very good place to start for a beginner to machine learning. Python codes available by others on Github.   
      - main website:  http://faculty.marshall.usc.edu/gareth-james/ISL/  
      - free book:  http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf   
      - class:  https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about   
-    
- * Hastie, Tibshirani, Friedman, ***Elements of Statistical Learning***, 2nd ed., c 2009   
-   Older book. Is math amd theory heavy. Definitive reference.   
-     - https://web.stanford.edu/~hastie/ElemStatLearn/  
   
  * See also **3 Blue and 1 Brown** YouTube playlist on ***Neural Networks***.   
    This guy has very good visual summaries of complex math problems.  
@@ -48,14 +44,18 @@
  
 ## More books:  
 
+ * Chollet, ***Deep Learning with Python***  
+   Learning Keras/TensorFlow and basic deep learning concepts from the developer of Keras.  
+     - https://www.manning.com/books/deep-learning-with-python  
+     
  * Juan Nunez-Iglesias et al., ***Elegant-Scipy***, c 2017.  
    Best book for learning Python Scipy library. Authors are also core developers for Scikit-Image library.   
      - Link: https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
      - Github repo: https://github.com/elegant-scipy/elegant-scipy  
 
- * Aurelien Geron, ***Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow***, 2nd ed. c 2019.  
-   The 2nd edition has new chapters on deep learning.    
-     - Link: https://github.com/ageron/handson-ml2  
+ * Hastie, Tibshirani, Friedman, ***Elements of Statistical Learning***, 2nd ed., c 2009   
+   Older book. Is math amd theory heavy. Definitive reference.   
+     - https://web.stanford.edu/~hastie/ElemStatLearn/  
 
  * Bishop, ***Pattern Recognition***, c 2006.   
    Math and Concepts.  Oldie but goodie, and is a definitive reference.  
@@ -70,6 +70,11 @@
  * Luciano Ramalho, Fluent Python, c 2015. older, used Python v3.4, 2nd ed c 2021 (not released yet).    
    I like this book for intermediate level Python. 1st edition was good enough for upgrading my skills.    
      - Link: https://github.com/fluentpython  
+
+ * Statistical Rethinking -- Bayesian Statistics with Stan/R.  Python codes from others available on Github.   
+     - See PDF: <a href="./books/Statistical_Rethinking.pdf" alt="book pdf" />here</a>.  
+     - class: to add later  
+   
      
 **List by Jennifer E. Yoon**   
 
