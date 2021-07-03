@@ -66,15 +66,6 @@
    A very good "Math for CS" class. Has Singular Vector Decomposition (SVD) and   Support Vector Machines (SVM).   
      - Book Link: http://courses.washington.edu/am301/docs/pdf/301.pdf   
      - YouTube Link: https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA  
-
- * Luciano Ramalho, Fluent Python, c 2015. older, used Python v3.4, 2nd ed c 2021 (not released yet).    
-   I like this book for intermediate level Python. 1st edition was good enough for upgrading my skills.    
-     - Link: https://github.com/fluentpython  
-
- * Statistical Rethinking -- Bayesian Statistics with Stan/R.  Python codes from others available on Github.   
-     - See PDF: <a href="./books/Statistical_Rethinking.pdf" alt="book pdf" />here</a>.  
-     - class: to add later  
-   
      
 **List by Jennifer E. Yoon**   
 
