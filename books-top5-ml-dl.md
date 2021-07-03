@@ -2,7 +2,7 @@
 
 ## Top-5 books:  
   
- * Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
+ 1. Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
    After working through VanderPlas, fastai has the best beginner book for deep learning.
      - Amazon book:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1   
      - fastbook github: https://github.com/fastai/fastbook  
@@ -16,19 +16,19 @@
      - Youtube playlist for fastai v2 library, 2020 release:  
        https://m.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq  
        
- * VanderPlas, ***Python Data Science Handbook***, c 2017     
+ 2. VanderPlas, ***Python Data Science Handbook***, c 2017     
    Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Pandas, Scikit-learn, and Jupyter/iPython.  
     - Link: https://jakevdp.github.io/PythonDataScienceHandbook/        
     
- * Aurelien Geron, ***Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow***, 2nd ed. c 2019.  
+ 3. Aurelien Geron, ***Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow***, 2nd ed. c 2019.  
    The 2nd edition has new part 2 on deep learning. Part a has basic machine learning.      
      - Link: https://github.com/ageron/handson-ml2  
        
- * Goodfellow et al., ***Deep Learning Book***   
+ 4. Goodfellow et al., ***Deep Learning Book***   
    Has more math and theory. Is a definitive reference.     
      - Link: http://www.deeplearningbook.org/  
 
- * James, Witten, Hastie, Tibshirani, ***An Introduction to Statistical Learning with Applications in R***, c 2013.   
+ 5. James, Witten, Hastie, Tibshirani, ***An Introduction to Statistical Learning with Applications in R***, c 2013.   
    8th printing with corrections, c 2017.  
    Very good place to start for a beginner to machine learning. Python codes available by others on Github.   
      - main website:  http://faculty.marshall.usc.edu/gareth-james/ISL/  

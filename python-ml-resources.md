@@ -2,6 +2,14 @@
 
 ### I. Classes  
 
+ * Coursera, Andrew Ng instructor, Deep Learning Specialization  
+     - https://www.coursera.org/specializations/deep-learning?  
+       Five classes.  Classes 1 neural networks and 4 convolutional neural networks are foundations.  
+ * Udemy, Jose Portilla, Python for Data Science and Machine Learning Bootcamp  
+     - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+ * Fast.AI, Part 1: Practical Deep Learning for Coders, Part 2: Foundations 
+   2020 part 1 course: https://course.fast.ai/  
+   2019 part 2 course: https://course19.fast.ai/part2
 
 ### II. Tutorials  
 
@@ -10,7 +18,7 @@
 
 #### III-a. Books for Beginners 
 
- * Introduction to Statistical Learninf with Applications in R, James et al.  
+ * Introduction to Statistical Learning with Applications in R, James et al.  
    Stanford professors, MOOC and video available from Lagunitas.  
    Good beginner book on machine learning concepts. Has easy practice questions.  
    Don't need to know R.  Many Python versions of code is available from others.  
@@ -28,6 +36,9 @@
 
  * Alorithms Illuminated, 1, 2, 3, 4, by Tim Roughgarden 
    Stanford professor, teaches MOOC on Lagunitas since 2012, video and forum available to all.  
+
+ * Statistical Rethinking  
+   Bayesian statistics.  
 
 ### IV. Conferences and Events  
 
