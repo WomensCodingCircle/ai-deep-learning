@@ -17,4 +17,4 @@ https://hacktoberfest.digitalocean.com/
   - free t-shirts awarded globally  
 
 <img src="hacktoberfest/hactoberfest2020.png" width="200">
-<a href="https://github.com/WomensCodingCircle/ai-deep-learning-python/blob/main/hacktoberfest/hactoberfest2020.png" width="200">img</a>
+
