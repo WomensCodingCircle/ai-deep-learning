@@ -7,9 +7,9 @@
        Five classes.  Classes 1 neural networks and 4 convolutional neural networks are foundations.  
  * Udemy, Jose Portilla, Python for Data Science and Machine Learning Bootcamp  
      - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
- * Fast.AI, Part 1: Practical Deep Learning for Coders, Part 2: Foundations 
-   2020 part 1 course: https://course.fast.ai/  
-   2019 part 2 course: https://course19.fast.ai/part2
+ * Fast.AI, Part 1: Practical Deep Learning for Coders, Part 2: Foundations  
+     - 2020 part 1 course: https://course.fast.ai/   
+     - 2019 part 2 course: https://course19.fast.ai/part2  
 
 ### II. Tutorials  
 
@@ -28,9 +28,17 @@
  * Python Data Science Handbook, Jake VanderPlas  
    Teaches you how to ise main machine learning Python libraties. Not a core concepts book.  
    Covers Jupyter Notebook, Numpy, Pandas, Matplotlib, Scikit-Learn, and a little bit of Unix bash commands.  
+     - github:  https://github.com/jakevdp/PythonDataScienceHandbook  
+   
+ * Hands on Machine Learning, 2nd ed, Aurélien Géron   
+     - Early Release pdf:  https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf    
+     - github:  https://github.com/ageron/handson-ml2   
 
 #### III-c. Books for Foundations
 
+ * Goodfellow et al., Deep Learning   
+     - link to pdf:  https://www.deeplearningbook.org/front_matter.pdf   
+     - link to website:  https://www.deeplearningbook.org/  
 
 #### III-d. Related Books in Statistics & Probability, Algorithms, and Python Programming
 
