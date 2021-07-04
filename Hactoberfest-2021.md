@@ -16,4 +16,4 @@ https://hacktoberfest.digitalocean.com/
   - 387,052 successful pull requests were created  
   - free t-shirts awarded globally  
 
-<img src="./hactoberfest/hactoberfest2020.png" width="200">
+<img src="hactoberfest/hactoberfest2020.png" width="200">
