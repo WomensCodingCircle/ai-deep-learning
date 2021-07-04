@@ -5,9 +5,8 @@ In addition to being a good resource to WCC members on AI and Deep Learning topi
 See 2020 Hactoberfest page  
 https://hacktoberfest.digitalocean.com/  
 
-### For 2021 participation, look for "Hactoberfest-2021" label in Issues tab (top menu)
-
-<img src="hacktoberfest/issue.png" width="600">
+### For 2021 participation, look for "Hactoberfest-2021" label in Issues tab (top menu)  
+<img src="hacktoberfest/issue.png" width="800">
   
   
 ### Link to stats from Hactoberfest 2020:  
