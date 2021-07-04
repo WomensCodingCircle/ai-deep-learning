@@ -16,4 +16,5 @@ https://hacktoberfest.digitalocean.com/
   - 387,052 successful pull requests were created  
   - free t-shirts awarded globally  
 
-<img src="hactoberfest/hactoberfest2020.png" width="200">
+<img src="hacktoberfest/hactoberfest2020.png" width="200">
+<a href="https://github.com/WomensCodingCircle/ai-deep-learning-python/blob/main/hacktoberfest/hactoberfest2020.png" width="200">img</a>
