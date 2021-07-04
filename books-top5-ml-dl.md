@@ -1,6 +1,6 @@
-#  Books & Resources for Machine Learning and Deep Learning     
+#  Books Top 5, for machine learning and deep learning  
 
-## Top-5 books:  
+## Top-5 book:   
   
  1. Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
    After working through VanderPlas, fastai has the best beginner book for deep learning.
@@ -61,11 +61,6 @@
    Math and Concepts.  Oldie but goodie, and is a definitive reference.  
      - Link: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/   
      - Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
-     
- * AMATH301 Univ of Washington  
-   A very good "Math for CS" class. Has Singular Vector Decomposition (SVD) and   Support Vector Machines (SVM).   
-     - Book Link: http://courses.washington.edu/am301/docs/pdf/301.pdf   
-     - YouTube Link: https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA  
      
 **List by Jennifer E. Yoon**   
 
