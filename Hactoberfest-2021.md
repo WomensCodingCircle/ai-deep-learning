@@ -7,6 +7,13 @@ https://hacktoberfest.digitalocean.com/
 
 ### for 2021, look for "Hactoberfest-2021" label in Issues tab (top menu)
 
-  ( to add graphic here )
+
   
   
+### Link to stats from Hactoberfest 2020:  
+  - https://hacktoberfest.digitalocean.com/  
+  - 66,739 people completed the challenge  
+  - 387,052 successful pull requests were created  
+  - free t-shirts awarded globally  
+
+<img src="./hactoberfest/hactoberfest2020.png" width="200">
