@@ -6,7 +6,7 @@ See 2020 Hactoberfest page
 https://hacktoberfest.digitalocean.com/  
 
 ### For 2021 participation, look for "Hactoberfest-2021" label in Issues tab (top menu)  
-<img src="hacktoberfest/issue.png" width="800">
+<img src="hacktoberfest/issue.png" >
   
   
 ### Link to stats from Hactoberfest 2020:  
