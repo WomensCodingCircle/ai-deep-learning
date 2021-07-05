@@ -21,7 +21,7 @@
     - Link: https://jakevdp.github.io/PythonDataScienceHandbook/        
     
  3. Aurelien Geron, ***Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow***, 2nd ed. c 2019.  
-   The 2nd edition has new part 2 on deep learning. Part a has basic machine learning.      
+   The 2nd edition has new part 2 on deep learning. Part 1 covers basic machine learning.      
      - Link: https://github.com/ageron/handson-ml2  
        
  4. Goodfellow et al., ***Deep Learning Book***   
