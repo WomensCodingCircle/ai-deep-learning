@@ -27,6 +27,8 @@
  4. Goodfellow et al., ***Deep Learning Book***   
    Has more math and theory. Is a definitive reference.     
      - Link: http://www.deeplearningbook.org/  
+     - free book:  <a href="./books/Goodfellow-Deep-Learning.pdf" alt="Goodfellow">
+     > <img src="./books/goodfellow.jpg" width="150"></a>
 
  5. James, Witten, Hastie, Tibshirani, ***An Introduction to Statistical Learning with Applications in R***, c 2013.   
    8th printing with corrections, c 2017.  
