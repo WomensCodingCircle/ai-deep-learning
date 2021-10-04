@@ -1,5 +1,13 @@
 #  Books Top 5, for machine learning and deep learning  
 
+
+### Hactoberfest-2021 Instructions:  
+
+Please edit this file by adding **Top-5 books** you would recommend.  Add to the end of the file.  Plase add your name, your GitHub username, and #hactoberfest-2021, somewhere above or below your list. For more instructions, please see:  
+ * Hactoberfest_2021_instructions.md  
+ * issue #2, in "issues" tab, top-menu.  
+
+
 ## Top-5 book:   
   
  1. Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
