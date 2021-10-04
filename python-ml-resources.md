@@ -1,5 +1,12 @@
 # Collection of resources in Python  
 
+### Hactoberfest-2021 Instructions:  
+
+Please edit this file by adding resource(s) you would recommend. Plase add your name, your GitHub username, and #hactoberfest-2021, somewhere above or below the item(s) you have added. For more instructions, please see:  
+ * hactoberfest_2021_instructions.md  
+ * issue #2, in "issue" tab, top-menu.  
+
+
 ### I. Classes  
 
  * Coursera, Andrew Ng instructor, Deep Learning Specialization  
