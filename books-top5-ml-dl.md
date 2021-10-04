@@ -8,7 +8,8 @@ Please edit this file by adding **Top-5 books** you would recommend.  Add to the
  * issue #2, in "issues" tab, top-menu.  
 
 
-## Top-5 book:   
+### Top-5 book:   
+By Jennifer E. Yoon, Github user: JennEYoon, \#hactoberfest-2021    
   
  1. Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
    After working through VanderPlas, fastai has the best beginner book for deep learning.
@@ -52,7 +53,7 @@ Please edit this file by adding **Top-5 books** you would recommend.  Add to the
 
  ---  
  
-## More books:  
+### More books:  
 
  * Chollet, ***Deep Learning with Python***  
    Learning Keras/TensorFlow and basic deep learning concepts from the developer of Keras.  
@@ -71,8 +72,63 @@ Please edit this file by adding **Top-5 books** you would recommend.  Add to the
    Math and Concepts.  Oldie but goodie, and is a definitive reference.  
      - Link: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/   
      - Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
-     
-**List by Jennifer E. Yoon**   
 
-### Please feel free to add your top picks!  
+### Please feel free to add your top-5 picks below!  
+
+-----   
+
+### Top-5 book:   
+By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021  
+  
+  1. - book  
+
+  2. - book    
+  
+  3. - book    
+  
+  4. - book  
+  
+  5. - book  
+
+-----  
+
+### Top-5 book:   
+By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021  
+  
+  1. - book  
+
+  2. - book    
+  
+  3. - book    
+  
+  4. - book  
+  
+  5. - book  
+
+-----  
+
+### Top-5 book:   
+By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021  
+  
+  1. - book  
+
+  2. - book    
+  
+  3. - book    
+  
+  4. - book  
+  
+  5. - book  
+
+-----  
+
+
+
+
+
+
+
+---  
+<eof>  
+
 
