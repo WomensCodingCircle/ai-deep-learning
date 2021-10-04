@@ -8,7 +8,7 @@ Please edit this file by adding **Top-5 books** you would recommend.  Add to the
  * issue #2, in "issues" tab, top-menu.  
 
 
-### Top-5 book:   
+### Top-5 books:   
 By Jennifer E. Yoon, Github user: JennEYoon, \#hactoberfest-2021    
   
  1. Howard and Gugger, ***Deep Learning for Coders with Fastai and PyTorch***, c 2020  
@@ -50,8 +50,6 @@ By Jennifer E. Yoon, Github user: JennEYoon, \#hactoberfest-2021
    This guy has very good visual summaries of complex math problems.  
    The Neural Networks playlist is a very good summary of visual deep learning.  
      - Link: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi   
-
- ---  
  
 ### More books:  
 
@@ -77,7 +75,7 @@ By Jennifer E. Yoon, Github user: JennEYoon, \#hactoberfest-2021
 
 -----   
 
-### Top-5 book:   
+### Top-5 books:   
 By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021  
   
   1. - book  
@@ -92,7 +90,7 @@ By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021
 
 -----  
 
-### Top-5 book:   
+### Top-5 books:   
 By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021  
   
   1. - book  
@@ -107,7 +105,7 @@ By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021
 
 -----  
 
-### Top-5 book:   
+### Top-5 books:   
 By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021  
   
   1. - book  
@@ -130,5 +128,3 @@ By \<your name\>, Github user: \<your github username\>, \#hactoberfest-2021
 
 ---  
 <eof>  
-
-
