@@ -25,13 +25,12 @@ By Jennifer E. Yoon, Github user: JennEYoon, \#hactoberfest-2021
      - Youtube playlist for fastai v2 library, 2020 release:  
        https://m.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq  
        
- 2. VanderPlas, ***Python Data Science Handbook***, c 2017     
+ 2. **New** -- Magnus Ekman, NVIDIA Deep Learning Institute, Learning Deep Learning, c 2022 NVIDIA Corporation, Addison-Wesley publisher.  
+     - Has 666 pages of very thorough instructions and very clear color graphics that lays out the current state of deep learning using TensorFlow. The exhibits and cheatsheets at the end are exceptionally good and is worth the price of the book by itself. I would not call it a beginner's book. But if you are somewhat comfortable with calculus and linear algebra and have 1 year of daily programming experience, then it would be suitable even as your first book on deep learning.   
+
+ 3. VanderPlas, ***Python Data Science Handbook***, c 2017     
    Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Pandas, Scikit-learn, and Jupyter/iPython.  
     - Link: https://jakevdp.github.io/PythonDataScienceHandbook/        
-    
- 3. Aurelien Geron, ***Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow***, 2nd ed. c 2019.  
-   The 2nd edition has new part 2 on deep learning. Part 1 covers basic machine learning.      
-     - Link: https://github.com/ageron/handson-ml2  
        
  4. Goodfellow et al., ***Deep Learning Book***   
    Has more math and theory. Is a definitive reference.     
@@ -53,9 +52,11 @@ By Jennifer E. Yoon, Github user: JennEYoon, \#hactoberfest-2021
  
 ### More books:  
 
- * Chollet, ***Deep Learning with Python***  
+ * **Update** -- Chollet, ***Deep Learning with Python***, 2nd ed.  
    Learning Keras/TensorFlow and basic deep learning concepts from the developer of Keras.  
-     - https://www.manning.com/books/deep-learning-with-python  
+   The 2nd edition has 50% more content with 5 new chapters. Final version available around Novemver 2021. MEAP version available online from Manning.  
+     - https://livebook.manning.com/book/deep-learning-with-python-second-edition/chapter-1/v-7/ (2nd ed. v7)
+     - https://www.manning.com/books/deep-learning-with-python (1st ed.)
      
  * Juan Nunez-Iglesias et al., ***Elegant-Scipy***, c 2017.  
    Best book for learning Python Scipy library. Authors are also core developers for Scikit-Image library.   
