@@ -41,16 +41,28 @@ Please edit this file by adding resource(s) you would recommend. Plase add your 
      - Early Release pdf:  https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf    
      - github:  https://github.com/ageron/handson-ml2   
 
+ * Deep Learning with Python, 2nd ed., Fracois Chollet, c 2021 (nov est), Manning Co.  
+     - https://www.manning.com/books/deep-learning-with-python-second-edition  
+     - github: https://github.com/fchollet/deep-learning-with-python-notebooks  
+     - Added by Jennifer Yoon, github: JennEYoon, #hacktoberfest-2021  
+
 #### III-c. Books for Foundations
 
  * Goodfellow et al., Deep Learning   
      - link to pdf:  https://www.deeplearningbook.org/front_matter.pdf   
      - link to website:  https://www.deeplearningbook.org/  
 
+ * Magnus Ekman, NVIDIA Deep Learning Institute, Learning Deep Learning, c 2002, Addison-Wesley publication.  
+     - https://www.nvidia.com/en-us/training/books/  
+
+
 #### III-d. Related Books in Statistics & Probability, Algorithms, and Python Programming
 
- * Alorithms Illuminated, 1, 2, 3, 4, by Tim Roughgarden 
-   Stanford professor, teaches MOOC on Lagunitas since 2012, video and forum available to all.  
+ * Algorithms Illuminated, books 1, 2, 3, 4, by Tim Roughgarden 
+    - MOOC class on Coursera.org: https://www.coursera.org/specializations/algorithms   
+    - YouTube has videos for all 4 parts: https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg  
+    - Added by Jennifer Yoon, github: JennEYoon, #hacktoberfest-2021  
+
 
  * Statistical Rethinking  
    Bayesian statistics.  
@@ -105,3 +117,7 @@ Please edit this file by adding resource(s) you would recommend. Plase add your 
  * Algoexpert.com - about $80-100 for 1 year, look for sales.  
 
 
+ * Genius Makers, by Cade Metz, c 2021, Dutton publisher.
+    - Has interesting story about the early pioneers of deep learning and the story of AlphaGo AI development.  
+    - https://www.amazon.com/Genius-Makers-Mavericks-Brought-Facebook/dp/1524742678/ref=asc_df_1524742678/?tag=hyprod-20&linkCode=df0&hvadid=459709175715&hvpos=&hvnetw=g&hvrand=11860445820015786195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007587&hvtargid=pla-944267914281&psc=1
+    - Added by Jennifer Yoon, github: JennEYoon, #hacktoberfest-2021  
