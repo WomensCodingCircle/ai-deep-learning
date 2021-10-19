@@ -78,13 +78,15 @@ Please edit this file by adding resource(s) you would recommend. Plase add your 
 
 ### V. Tools, Environments 
 
-#### V-a. Github  
+#### V-a. Github 
+  * The Odin Project - Added by Brianna Guarino, github user Brirrito 
 
 
 #### V-b. Markdown formatting  
 
 
-#### V-c. Ubuntu Shell  
+#### V-c. Ubuntu Shell
+  * Unix/Linux Command Reference https://files.fosswire.com/2007/08/fwunixref.pdf - Added by Brianna Guarino, github user Brirrito
 
 
 #### V-d. Anaconda Environment
