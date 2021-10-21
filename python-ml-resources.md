@@ -17,6 +17,9 @@ Please edit this file by adding resource(s) you would recommend. Plase add your 
  * Fast.AI, Part 1: Practical Deep Learning for Coders, Part 2: Foundations  
      - 2020 part 1 course: https://course.fast.ai/   
      - 2019 part 2 course: https://course19.fast.ai/part2  
+ * Hacktoberfest, Global event, October 1st to 31st annually: https://hacktoberfest.digitalocean.com/register  
+     - Lots of resources to help new users get involved with open source repos on GitHub. Help first timers with Git, GitHub and Pull Requests.    
+
 
 ### II. Tutorials  
 
