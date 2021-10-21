@@ -79,6 +79,8 @@ Please edit this file by adding resource(s) you would recommend. Plase add your 
 ### V. Tools, Environments 
 
 #### V-a. Github 
+  * Github getting started:  https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account  
+  * Beginner video, Git and GitHub:  https://www.youtube.com/watch?v=RGOj5yH7evk  
 
 
 #### V-b. Markdown formatting  
