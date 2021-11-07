@@ -1,4 +1,7 @@
-# What is Machine Learning?
+# What is Machine Learning?  
+
+Contributed by github id: Hiruni Perera https://github.com/HiruniPerera
+#hacktoberfest-2021  
 
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
