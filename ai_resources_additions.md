@@ -2,7 +2,7 @@
 
 ## Introduction to AI
 
-contributed by github id: novicii  
+contributed by github id: novicii  https://github.com/noviicee  
 based on existing page pytno_ml_resources.md  
 #hacktoberfest-2021  
 
