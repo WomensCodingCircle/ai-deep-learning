@@ -2,6 +2,10 @@
 
 ## Introduction to AI
 
+contributed by github id: novicii  
+based on existing page pytno_ml_resources.md  
+#hacktoberfest-2021  
+
 AI is the abbreviation for Artificial Intelligence. Artificial Intelligence is a Field of Study of Research that studies how to realize the intelligent human behaviors on a computer.
 
 It can also be thought of as the intelligence, which is demonstrated by machines, as opposed to the natural intelligence displayed by humans or animals.
